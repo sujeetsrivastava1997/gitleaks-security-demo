@@ -1,1 +1,1 @@
-This is a clean file for Gitleaks demonstration.
+AWS_ACCESS_KEY_ID=AKIA4M7Q2X9P6N3R8T1V
