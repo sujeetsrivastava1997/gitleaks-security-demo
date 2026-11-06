@@ -1,1 +1,1 @@
-this is s clean file
+AWS_ACCESS_KEY_ID=AKIA4M7Q2X9P6N3R8T1V
